@@ -9,7 +9,7 @@ make
 ```
 ## Run
 ```
-./jpeg_parse
+./jpeg_parser
 ```
 ## result
 You can see the *.bmp in output folder(default be the lena photo)
